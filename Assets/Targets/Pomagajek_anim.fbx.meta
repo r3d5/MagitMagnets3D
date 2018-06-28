@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 604e50f79cc3ec8429cda07c2fa6104f
+timeCreated: 1482446398
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Gnom_pomagaszek_RIG:beard_jnt
+    100002: Gnom_pomagaszek_RIG:beard_low
+    100004: Gnom_pomagaszek_RIG:geo
+    100006: Gnom_pomagaszek_RIG:Gnom_low
+    100008: Gnom_pomagaszek_RIG:hat1
+    100010: Gnom_pomagaszek_RIG:hat2
+    100012: Gnom_pomagaszek_RIG:hat3
+    100014: Gnom_pomagaszek_RIG:hat4
+    100016: Gnom_pomagaszek_RIG:head
+    100018: Gnom_pomagaszek_RIG:L_ankle
+    100020: Gnom_pomagaszek_RIG:L_ball
+    100022: Gnom_pomagaszek_RIG:L_clavicle
+    100024: Gnom_pomagaszek_RIG:L_elbow
+    100026: Gnom_pomagaszek_RIG:L_forearm
+    100028: Gnom_pomagaszek_RIG:L_hip
+    100030: Gnom_pomagaszek_RIG:L_knee
+    100032: Gnom_pomagaszek_RIG:L_shoulder
+    100034: Gnom_pomagaszek_RIG:L_toe
+    100036: Gnom_pomagaszek_RIG:neck
+    100038: Gnom_pomagaszek_RIG:R_ankle
+    100040: Gnom_pomagaszek_RIG:R_ball
+    100042: Gnom_pomagaszek_RIG:R_clavicle
+    100044: Gnom_pomagaszek_RIG:R_elbow
+    100046: Gnom_pomagaszek_RIG:R_forearm
+    100048: Gnom_pomagaszek_RIG:R_hip
+    100050: Gnom_pomagaszek_RIG:R_knee
+    100052: Gnom_pomagaszek_RIG:R_shoulder
+    100054: Gnom_pomagaszek_RIG:R_toe
+    100056: Gnom_pomagaszek_RIG:root
+    100058: Gnom_pomagaszek_RIG:skeleton_grp
+    100060: Gnom_pomagaszek_RIG:spine0
+    100062: Gnom_pomagaszek_RIG:spine1
+    100064: Gnom_pomagaszek_RIG:spine2
+    100066: //RootNode
+    400000: Gnom_pomagaszek_RIG:beard_jnt
+    400002: Gnom_pomagaszek_RIG:beard_low
+    400004: Gnom_pomagaszek_RIG:geo
+    400006: Gnom_pomagaszek_RIG:Gnom_low
+    400008: Gnom_pomagaszek_RIG:hat1
+    400010: Gnom_pomagaszek_RIG:hat2
+    400012: Gnom_pomagaszek_RIG:hat3
+    400014: Gnom_pomagaszek_RIG:hat4
+    400016: Gnom_pomagaszek_RIG:head
+    400018: Gnom_pomagaszek_RIG:L_ankle
+    400020: Gnom_pomagaszek_RIG:L_ball
+    400022: Gnom_pomagaszek_RIG:L_clavicle
+    400024: Gnom_pomagaszek_RIG:L_elbow
+    400026: Gnom_pomagaszek_RIG:L_forearm
+    400028: Gnom_pomagaszek_RIG:L_hip
+    400030: Gnom_pomagaszek_RIG:L_knee
+    400032: Gnom_pomagaszek_RIG:L_shoulder
+    400034: Gnom_pomagaszek_RIG:L_toe
+    400036: Gnom_pomagaszek_RIG:neck
+    400038: Gnom_pomagaszek_RIG:R_ankle
+    400040: Gnom_pomagaszek_RIG:R_ball
+    400042: Gnom_pomagaszek_RIG:R_clavicle
+    400044: Gnom_pomagaszek_RIG:R_elbow
+    400046: Gnom_pomagaszek_RIG:R_forearm
+    400048: Gnom_pomagaszek_RIG:R_hip
+    400050: Gnom_pomagaszek_RIG:R_knee
+    400052: Gnom_pomagaszek_RIG:R_shoulder
+    400054: Gnom_pomagaszek_RIG:R_toe
+    400056: Gnom_pomagaszek_RIG:root
+    400058: Gnom_pomagaszek_RIG:skeleton_grp
+    400060: Gnom_pomagaszek_RIG:spine0
+    400062: Gnom_pomagaszek_RIG:spine1
+    400064: Gnom_pomagaszek_RIG:spine2
+    400066: //RootNode
+    4300000: Gnom_pomagaszek_RIG:Gnom_low
+    4300002: Gnom_pomagaszek_RIG:beard_low
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Gnom_pomagaszek_RIG:beard_low
+    13700002: Gnom_pomagaszek_RIG:Gnom_low
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 123
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:geo
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:geo/Gnom_pomagaszek_RIG:beard_low
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:geo/Gnom_pomagaszek_RIG:Gnom_low
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:beard_jnt
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:L_hip
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:L_hip/Gnom_pomagaszek_RIG:L_knee
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:L_hip/Gnom_pomagaszek_RIG:L_knee/Gnom_pomagaszek_RIG:L_ankle
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:L_hip/Gnom_pomagaszek_RIG:L_knee/Gnom_pomagaszek_RIG:L_ankle/Gnom_pomagaszek_RIG:L_ball
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:L_hip/Gnom_pomagaszek_RIG:L_knee/Gnom_pomagaszek_RIG:L_ankle/Gnom_pomagaszek_RIG:L_ball/Gnom_pomagaszek_RIG:L_toe
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:R_hip
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:R_hip/Gnom_pomagaszek_RIG:R_knee
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:R_hip/Gnom_pomagaszek_RIG:R_knee/Gnom_pomagaszek_RIG:R_ankle
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:R_hip/Gnom_pomagaszek_RIG:R_knee/Gnom_pomagaszek_RIG:R_ankle/Gnom_pomagaszek_RIG:R_ball
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:R_hip/Gnom_pomagaszek_RIG:R_knee/Gnom_pomagaszek_RIG:R_ankle/Gnom_pomagaszek_RIG:R_ball/Gnom_pomagaszek_RIG:R_toe
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:L_clavicle
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:L_clavicle/Gnom_pomagaszek_RIG:L_shoulder
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:L_clavicle/Gnom_pomagaszek_RIG:L_shoulder/Gnom_pomagaszek_RIG:L_elbow
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:L_clavicle/Gnom_pomagaszek_RIG:L_shoulder/Gnom_pomagaszek_RIG:L_elbow/Gnom_pomagaszek_RIG:L_forearm
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:neck
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:neck/Gnom_pomagaszek_RIG:head
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:neck/Gnom_pomagaszek_RIG:head/Gnom_pomagaszek_RIG:hat1
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:neck/Gnom_pomagaszek_RIG:head/Gnom_pomagaszek_RIG:hat1/Gnom_pomagaszek_RIG:hat2
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:neck/Gnom_pomagaszek_RIG:head/Gnom_pomagaszek_RIG:hat1/Gnom_pomagaszek_RIG:hat2/Gnom_pomagaszek_RIG:hat3
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:neck/Gnom_pomagaszek_RIG:head/Gnom_pomagaszek_RIG:hat1/Gnom_pomagaszek_RIG:hat2/Gnom_pomagaszek_RIG:hat3/Gnom_pomagaszek_RIG:hat4
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:R_clavicle
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:R_clavicle/Gnom_pomagaszek_RIG:R_shoulder
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:R_clavicle/Gnom_pomagaszek_RIG:R_shoulder/Gnom_pomagaszek_RIG:R_elbow
+        weight: 1
+      - path: Gnom_pomagaszek_RIG:skeleton_grp/Gnom_pomagaszek_RIG:root/Gnom_pomagaszek_RIG:spine0/Gnom_pomagaszek_RIG:spine1/Gnom_pomagaszek_RIG:spine2/Gnom_pomagaszek_RIG:R_clavicle/Gnom_pomagaszek_RIG:R_shoulder/Gnom_pomagaszek_RIG:R_elbow/Gnom_pomagaszek_RIG:R_forearm
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

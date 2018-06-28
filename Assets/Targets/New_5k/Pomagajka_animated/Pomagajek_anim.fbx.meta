@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 2330ccb349b5943ceadf64b844855a90
+timeCreated: 1512229253
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Gnom_pomagaszek_RIG:beard_jnt
+    100002: Gnom_pomagaszek_RIG:beard_low
+    100004: Gnom_pomagaszek_RIG:geo
+    100006: Gnom_pomagaszek_RIG:Gnom_low
+    100008: Gnom_pomagaszek_RIG:hat1
+    100010: Gnom_pomagaszek_RIG:hat2
+    100012: Gnom_pomagaszek_RIG:hat3
+    100014: Gnom_pomagaszek_RIG:hat4
+    100016: Gnom_pomagaszek_RIG:head
+    100018: Gnom_pomagaszek_RIG:L_ankle
+    100020: Gnom_pomagaszek_RIG:L_ball
+    100022: Gnom_pomagaszek_RIG:L_clavicle
+    100024: Gnom_pomagaszek_RIG:L_elbow
+    100026: Gnom_pomagaszek_RIG:L_forearm
+    100028: Gnom_pomagaszek_RIG:L_hip
+    100030: Gnom_pomagaszek_RIG:L_knee
+    100032: Gnom_pomagaszek_RIG:L_shoulder
+    100034: Gnom_pomagaszek_RIG:L_toe
+    100036: Gnom_pomagaszek_RIG:neck
+    100038: Gnom_pomagaszek_RIG:R_ankle
+    100040: Gnom_pomagaszek_RIG:R_ball
+    100042: Gnom_pomagaszek_RIG:R_clavicle
+    100044: Gnom_pomagaszek_RIG:R_elbow
+    100046: Gnom_pomagaszek_RIG:R_forearm
+    100048: Gnom_pomagaszek_RIG:R_hip
+    100050: Gnom_pomagaszek_RIG:R_knee
+    100052: Gnom_pomagaszek_RIG:R_shoulder
+    100054: Gnom_pomagaszek_RIG:R_toe
+    100056: Gnom_pomagaszek_RIG:root
+    100058: Gnom_pomagaszek_RIG:skeleton_grp
+    100060: Gnom_pomagaszek_RIG:spine0
+    100062: Gnom_pomagaszek_RIG:spine1
+    100064: Gnom_pomagaszek_RIG:spine2
+    100066: //RootNode
+    400000: Gnom_pomagaszek_RIG:beard_jnt
+    400002: Gnom_pomagaszek_RIG:beard_low
+    400004: Gnom_pomagaszek_RIG:geo
+    400006: Gnom_pomagaszek_RIG:Gnom_low
+    400008: Gnom_pomagaszek_RIG:hat1
+    400010: Gnom_pomagaszek_RIG:hat2
+    400012: Gnom_pomagaszek_RIG:hat3
+    400014: Gnom_pomagaszek_RIG:hat4
+    400016: Gnom_pomagaszek_RIG:head
+    400018: Gnom_pomagaszek_RIG:L_ankle
+    400020: Gnom_pomagaszek_RIG:L_ball
+    400022: Gnom_pomagaszek_RIG:L_clavicle
+    400024: Gnom_pomagaszek_RIG:L_elbow
+    400026: Gnom_pomagaszek_RIG:L_forearm
+    400028: Gnom_pomagaszek_RIG:L_hip
+    400030: Gnom_pomagaszek_RIG:L_knee
+    400032: Gnom_pomagaszek_RIG:L_shoulder
+    400034: Gnom_pomagaszek_RIG:L_toe
+    400036: Gnom_pomagaszek_RIG:neck
+    400038: Gnom_pomagaszek_RIG:R_ankle
+    400040: Gnom_pomagaszek_RIG:R_ball
+    400042: Gnom_pomagaszek_RIG:R_clavicle
+    400044: Gnom_pomagaszek_RIG:R_elbow
+    400046: Gnom_pomagaszek_RIG:R_forearm
+    400048: Gnom_pomagaszek_RIG:R_hip
+    400050: Gnom_pomagaszek_RIG:R_knee
+    400052: Gnom_pomagaszek_RIG:R_shoulder
+    400054: Gnom_pomagaszek_RIG:R_toe
+    400056: Gnom_pomagaszek_RIG:root
+    400058: Gnom_pomagaszek_RIG:skeleton_grp
+    400060: Gnom_pomagaszek_RIG:spine0
+    400062: Gnom_pomagaszek_RIG:spine1
+    400064: Gnom_pomagaszek_RIG:spine2
+    400066: //RootNode
+    4300000: Gnom_pomagaszek_RIG:Gnom_low
+    4300002: Gnom_pomagaszek_RIG:beard_low
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Gnom_pomagaszek_RIG:beard_low
+    13700002: Gnom_pomagaszek_RIG:Gnom_low
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gnom_pomagaszek_RIG_Pomagajek_mat
+    second: {fileID: 2100000, guid: 2c3b8fa2d14ed499099a20e0e3b3acf0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 123
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

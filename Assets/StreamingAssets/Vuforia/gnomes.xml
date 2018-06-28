@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Magic_3d_Magnet_white" size="1.000000 1.000000" />
+    <ImageTarget name="Papa_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="zycliwek_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Tourist_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Spioch_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="sizifki_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Professor_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="pozarki_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Pomagajka_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Moto_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Hipo_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Florian_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Chrapek_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="Arcik_metka_no_logo" size="1.000000 1.000000" />
+    <ImageTarget name="minin" size="1.000000 0.998828" />
+    <ImageTarget name="ekpano" size="1.000000 1.798646" />
+    <ImageTarget name="Pomagajek_1" size="1.000000 1.000000" />
+    <ImageTarget name="arcik" size="1.000000 1.000000" />
+    <ImageTarget name="suvenirek" size="1.000000 1.000000" />
+    <ImageTarget name="hiposscourer" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

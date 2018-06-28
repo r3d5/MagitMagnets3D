@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="smok_turysta_metka" size="1.000000 0.998454" />
+    <ImageTarget name="wentyl_metka" size="1.000000 0.998454" />
+    <ImageTarget name="arcik_metka" size="1.000000 0.998454" />
+    <ImageTarget name="zyczliwek_metka" size="1.000000 0.998454" />
+    <ImageTarget name="turysta_metka" size="1.000000 0.998454" />
+    <ImageTarget name="syzyfki_metka" size="1.000000 0.998454" />
+    <ImageTarget name="spioch_metka" size="1.000000 0.998454" />
+    <ImageTarget name="pozarki_metka" size="1.000000 0.998454" />
+    <ImageTarget name="pomagajek_static_metka" size="1.000000 0.998454" />
+    <ImageTarget name="pomagajek_animated_metka" size="1.000000 0.998454" />
+    <ImageTarget name="katedra_metka" size="1.000000 0.998454" />
+    <ImageTarget name="hipoczysciciel_metka" size="1.000000 0.998454" />
+    <ImageTarget name="florianek_metka" size="1.000000 0.998454" />
+    <ImageTarget name="chrapek_metka" size="1.000000 0.998454" />
+  </Tracking>
+</QCARConfig>

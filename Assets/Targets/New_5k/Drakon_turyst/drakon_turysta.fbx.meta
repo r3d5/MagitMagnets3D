@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 5ee38ae2f29b4aa4187de20b7ad14c84
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone.002_end
+    100010: Bone.003
+    100012: Bone.004
+    100014: Bone.004_end
+    100016: Bone.005
+    100018: Bone.006
+    100020: Bone.007
+    100022: Bone.008
+    100024: Bone.009
+    100026: Bone.010
+    100028: Bone.010_end
+    100030: Bone.011
+    100032: Bone.012
+    100034: Bone.013
+    100036: Bone.014
+    100038: Bone.014_end
+    100040: Bone.015
+    100042: Bone.016
+    100044: Bone.017
+    100046: Bone.017_end
+    100048: Bone.018
+    100050: Bone.019
+    100052: Bone.020
+    100054: Bone.021
+    100056: Bone.021_end
+    100058: Bone.022
+    100060: Bone.023
+    100062: Bone.024
+    100064: Bone.025
+    100066: Bone.025_end
+    100068: Bone.026
+    100070: Bone.027
+    100072: Bone.028
+    100074: Bone.028_end
+    100076: Bone.029
+    100078: Bone.030
+    100080: Bone.031
+    100082: Bone.031_end
+    100084: Bone.032
+    100086: Bone.033
+    100088: Bone.034
+    100090: Bone.034_end
+    100092: //RootNode
+    100094: Group12262
+    100096: Group18132
+    100098: Group18823
+    100100: Group18824
+    100102: Group23979
+    100104: Group27335
+    100106: Group38203
+    100108: Group38204
+    100110: Group4125
+    100112: Group59551
+    100114: Group668
+    100116: Group669
+    100118: Group9750
+    100120: Group9751
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone.002_end
+    400010: Bone.003
+    400012: Bone.004
+    400014: Bone.004_end
+    400016: Bone.005
+    400018: Bone.006
+    400020: Bone.007
+    400022: Bone.008
+    400024: Bone.009
+    400026: Bone.010
+    400028: Bone.010_end
+    400030: Bone.011
+    400032: Bone.012
+    400034: Bone.013
+    400036: Bone.014
+    400038: Bone.014_end
+    400040: Bone.015
+    400042: Bone.016
+    400044: Bone.017
+    400046: Bone.017_end
+    400048: Bone.018
+    400050: Bone.019
+    400052: Bone.020
+    400054: Bone.021
+    400056: Bone.021_end
+    400058: Bone.022
+    400060: Bone.023
+    400062: Bone.024
+    400064: Bone.025
+    400066: Bone.025_end
+    400068: Bone.026
+    400070: Bone.027
+    400072: Bone.028
+    400074: Bone.028_end
+    400076: Bone.029
+    400078: Bone.030
+    400080: Bone.031
+    400082: Bone.031_end
+    400084: Bone.032
+    400086: Bone.033
+    400088: Bone.034
+    400090: Bone.034_end
+    400092: //RootNode
+    400094: Group12262
+    400096: Group18132
+    400098: Group18823
+    400100: Group18824
+    400102: Group23979
+    400104: Group27335
+    400106: Group38203
+    400108: Group38204
+    400110: Group4125
+    400112: Group59551
+    400114: Group668
+    400116: Group669
+    400118: Group9750
+    400120: Group9751
+    2100000: defaultMat
+    2300000: Group669
+    3300000: Group669
+    4300000: Group18132
+    4300002: Group9751
+    4300004: Group9750
+    4300006: Group18824
+    4300008: Group18823
+    4300010: Group38203
+    4300012: Group38204
+    4300014: Group668
+    4300016: Group59551
+    4300018: Group4125
+    4300020: Group23979
+    4300022: Group12262
+    4300024: Group27335
+    4300026: Group669
+    7400000: Drakon_turysta
+    9500000: //RootNode
+    13700000: Group12262
+    13700002: Group18132
+    13700004: Group18823
+    13700006: Group18824
+    13700008: Group23979
+    13700010: Group27335
+    13700012: Group38203
+    13700014: Group38204
+    13700016: Group4125
+    13700018: Group59551
+    13700020: Group668
+    13700022: Group9750
+    13700024: Group9751
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat
+    second: {fileID: 2100000, guid: e7f909e4fcd7942b38f437a60bc81485, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Drakon_turysta
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
